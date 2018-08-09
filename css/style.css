@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  background-color: black;
+  color: white;
+}
+.input-container {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
+.input-container input {
+  width: 100%;
+  padding: 10px;
+}
